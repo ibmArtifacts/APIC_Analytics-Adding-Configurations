@@ -1,4 +1,4 @@
-# APIC_Analytics-Adding-Configurations
+# APIC_v10_Analytics-Adding-Configurations
 API Connect Analytics: Adding extra-values configurations  
 
 This article will showcase an example of modifying the API Connect analytics configuration.  
