@@ -47,7 +47,7 @@ spec:
 
 ```  
 
-3. Open the apiconnect-up-v10.yml file to add the extra-values-file stanza under the “[i]kind: apic.ibm.com/AnalyticsSubsystem[i]” [i]spec:[i] section as shown in the diagram.  
+3. Open the apiconnect-up-v10.yml file to add the extra-values-file stanza under the “*kind: apic.ibm.com/AnalyticsSubsystem*”, and then under the *spec:* section as shown in the diagram.  
 ![image](https://user-images.githubusercontent.com/66093865/207156855-6b07ac5d-9905-4cba-8640-1b8cc73c8696.png)  
 
 4. Once the file is set, validate that apiconnect-up-v10.yml configurations are valid by opening a command prompt to the myProject directory and issuing the following command:  
